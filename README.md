@@ -57,6 +57,59 @@ My implementations for the [CS50 AI course by Harvard](https://pll.harvard.edu/c
 - Constraint Satisfaction Problems (CSP)
 - Backtracking Search
 
+## 🟡 Project 4: Learning
+
+### 🛒 Shopping  
+**Topics Covered:**
+- k-Nearest Neighbors (k-NN)  
+- Data Preprocessing  
+- Accuracy, Sensitivity & Specificity  
+- Evaluation Metrics
+
+### 🎯 Nim  
+
+**Topics Covered:**
+- Reinforcement Learning  
+- Q-learning  
+- State & Action Representation  
+- Exploration vs. Exploitation  
+- Game Strategy Learning
+
+---
+
+## 🔴 Project 5: Neural Networks
+
+### 🚦 Traffic  
+
+
+**Topics Covered:**
+- Image Classification  
+- CNN Architecture (Conv, Pool, Dense layers)  
+- TensorFlow & Keras  
+- Data Augmentation & Preprocessing  
+- Accuracy Evaluation
+
+---
+
+## 🟣 Project 6: Language
+
+### 📚 Parser  
+
+**Topics Covered:**
+- Context-Free Grammar (CFG)  
+- Sentence Structure Parsing  
+- Terminal and Nonterminal Symbols  
+- Phrase Extraction
+
+### 🧠 Attention  
+
+**Topics Covered:**
+- Masked Language Modeling (MLM)  
+- BERT & Transformer Architecture  
+- Self-Attention Mechanism  
+- Tokenization & Embedding  
+- Attention Map Visualization  
+- Analysis of Linguistic Patterns in Attention Heads
 ---
 
 ## 📖 Academic Honesty
